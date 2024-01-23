@@ -1,0 +1,14 @@
+// Create a table of metric prefixes from n up to T (don’t forget c!) from memory.  Include the prefix, its name, and the associated power of 10.
+
+
+  Prefix        Name         Power
+  ================================
+  Tera         Terabyte      10^12
+  Giga         Gigabyte      10^9
+  Mega         Megabyte      10^6
+  Kilo         Kilobyte      10^3
+  Base           Base        10^0
+  centi        centibyte     10^-2
+  milli        millibyte     10^-3
+  micro        microbyte     10^-6
+  nano         nanobyte      10^-9
